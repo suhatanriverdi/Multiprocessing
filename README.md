@@ -12,7 +12,7 @@ Applications in a multiprocessing system are broken to smaller routines that run
 For example, your source code file will be, “201611689.c”, is located in /home/yourname, type;**<br>
 ## cd /home/yourname <br>
 ->  Then type;
-## gcc main.c –o new
+## gcc 201611689.c –o new
 -> Now you can run your compiled program by typing;
 ## ./new
 
