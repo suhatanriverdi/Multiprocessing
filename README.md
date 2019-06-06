@@ -27,7 +27,7 @@ Multiprocessing C program is licensed under the MIT license. See LICENSE for mor
 You can download the latest release from this repository.
 
 ## Disclaimer
-This project was prepared and shared for educational purposes only. You can use or edit as you wish :)
+This project was prepared and shared for educational purposes only. You can use or edit any file as you wish :)
 
 ## About
 Süha TANRIVERDİ Çankaya University, Computer Engineering
